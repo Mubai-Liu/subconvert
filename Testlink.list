@@ -1,0 +1,9 @@
+# 用于互联网测试
+DOMAIN-SUFFIX, inonius.net
+DOMAIN-SUFFIX, ipv6-test.com
+DOMAIN-SUFFIX, test-ipv4.com
+DOMAIN-SUFFIX, test-ipv6.com
+DOMAIN-SUFFIX, ipw.cn
+DOMAIN-SUFFIX, ipleak.net
+DOMAIN-SUFFIX, dnsleaktest.com
+DOMAIN-SUFFIX, dnsleak.com
