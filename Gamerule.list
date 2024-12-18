@@ -14,4 +14,4 @@ IP-CIDR, 43.132.55.55/16, no-resolve
 
 # fallguys
 DOMAIN-KEYWORD,fallguys
-DOMAIN,	connect.ol.epicgames.com
+;DOMAIN,	connect.ol.epicgames.com
