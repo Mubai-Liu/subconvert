@@ -16,7 +16,8 @@
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,duboku.tv
 DOMAIN-SUFFIX,gdstudio.xyz
-DOMAIN-SUFFIX,exitgames.com #恶意不惜
+#恶意不息
+DOMAIN-SUFFIX,exitgames.com 
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
