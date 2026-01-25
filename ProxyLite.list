@@ -20,6 +20,8 @@ DOMAIN-SUFFIX,gdstudio.xyz
 DOMAIN-SUFFIX,exitgames.com 
 #恩山
 DOMAIN-SUFFIX,right.com.cn
+#燕云
+DOMAIN-SUFFIX,easebar.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
