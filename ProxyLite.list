@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,gimy.dev
 DOMAIN-SUFFIX,investing.com
 #恶意不息
 DOMAIN-SUFFIX,exitgames.com 
+DOMAIN-SUFFIX,norestforthewickedbackend.net
+IP-CIDR,81.28.13.16/32, no-resolve
+
 #恩山
 DOMAIN-SUFFIX,right.com.cn
 
