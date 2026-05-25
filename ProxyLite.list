@@ -16,7 +16,6 @@
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,duboku.tv
 DOMAIN-SUFFIX,gdstudio.xyz
-DOMAIN-SUFFIX,fc2ppvdb.com
 DOMAIN-SUFFIX,ssrdog.com
 DOMAIN-SUFFIX,gimy.dev
 DOMAIN-SUFFIX,investing.com
@@ -27,12 +26,8 @@ DOMAIN-SUFFIX,exitgames.com
 DOMAIN-SUFFIX,norestforthewickedbackend.net
 IP-CIDR,81.28.13.16/32, no-resolve
 
-#恩山
-DOMAIN-SUFFIX,right.com.cn
-
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,madou
 DOMAIN-KEYWORD,duboku
 DOMAIN-KEYWORD,convertunits
 DOMAIN-KEYWORD,jellyfin
