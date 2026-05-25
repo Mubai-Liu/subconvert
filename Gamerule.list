@@ -15,4 +15,7 @@ IP-CIDR, 43.132.55.55/16, no-resolve
 # fallguys
 DOMAIN-KEYWORD,fallguys
 
-
+# 燕云
+DOMAIN-SUFFIX,easebar.com
+DOMAIN-SUFFIX,nieapps.com
+DOMAIN-SUFFIX,netease.com
